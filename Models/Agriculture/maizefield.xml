@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+
+ <path>maizefield.ac</path>
+ 
+<offsets>
+	<z-m>  -0.500 </z-m>
+	<heading-deg>45.0</heading-deg>
+</offsets>
+ 
+<effect>
+	<inherits-from>Effects/model-transparent</inherits-from>
+	<object-name>maizefield</object-name>
+</effect>
+
+<animation>
+	<type>range</type>
+	<min-m>0</min-m>
+	<max-property>/sim/rendering/static-lod/rough</max-property>
+</animation>
+
+</PropertyList>

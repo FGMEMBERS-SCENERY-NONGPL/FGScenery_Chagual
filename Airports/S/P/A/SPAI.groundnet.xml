@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<groundnet build='Josh Dez-2015'>
+ <parkingList>
+  <Parking airlineCodes="" heading="126.16" index="172" lat="S8 20.861" lon="W77 24.058" name="Start" number="" radius="40" type="gate"/>
+ </parkingList>
+</groundnet>

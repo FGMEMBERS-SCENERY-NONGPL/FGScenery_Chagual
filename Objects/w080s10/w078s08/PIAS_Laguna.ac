@@ -1,0 +1,28 @@
+AC3DbS
+MATERIAL "default" rgb 0.5 0.5 0.5 amb 0.4 0.4 0.4 emis 0 0 0 spec 0.2 0.2 0.2 shi 128 trans 0
+MATERIAL "PIAS_Laguna" rgb 1 1 1 amb 1 1 1 emis 0 0 0 spec 0.2 0.2 0.2 shi 32 trans 0
+OBJECT world
+kids 1
+OBJECT poly
+name "PIAS_Laguna"
+texture "PIAS_Laguna.png"
+numvert 4
+1763.860000 0.000000 1859.253068
+-1763.860000 -0.000000 -1859.253068
+-1763.860000 0.000000 1859.253068
+1763.860000 -0.000000 -1859.253068
+numsurf 2
+SURF 0x10
+mat 1
+refs 3
+0 0.4291 -0.7994
+1 -0.2764 -0.0557
+2 -0.2764 -0.7994
+SURF 0x10
+mat 1
+refs 3
+1 -0.2764 -0.0557
+0 0.4291 -0.7994
+3 0.4291 -0.0557
+kids 0
+

@@ -1,0 +1,4 @@
+OBJECT_BASE 1676419.btg
+OBJECT SPIS.btg
+OBJECT_SHARED Models/Airport/windsock.xml -77.528301 -7.915676 1889.7 0.00
+OBJECT_SHARED Models/Airport/windsock.xml -77.520472 -7.926357 1908.6 0.00

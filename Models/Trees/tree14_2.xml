@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+
+ <path>tree14_2.ac</path>
+
+<animation>
+	<type>billboard</type>
+	<object-name>blah</object-name>
+	<spherical>false</spherical>
+</animation>
+ 
+<effect>
+	<inherits-from>Effects/model-transparent</inherits-from>
+	<object-name>blah</object-name>
+</effect>
+
+<animation>
+	<type>range</type>
+	<min-m>0</min-m>
+	<max-property>/sim/rendering/static-lod/rough</max-property>
+</animation>
+
+</PropertyList>

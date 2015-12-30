@@ -1,0 +1,35 @@
+AC3DbS
+MATERIAL "default" rgb 0.5 0.5 0.5 amb 0.4 0.4 0.4 emis 0 0 0 spec 0.2 0.2 0.2 shi 128 trans 0
+MATERIAL "Material1" rgb 1 1 1 amb 1 1 1 emis 0 0 0 spec 0.2 0.2 0.2 shi 32 trans 0
+OBJECT world
+kids 1
+OBJECT poly
+name "blah"
+texture "tropical.png"
+numvert 5
+4.582152 14.000000 -0.000000
+0.000000 0.000000 0.000000
+4.582152 0.000000 0.000000
+-3.986520 0.000000 0.000000
+-3.986520 14.000000 -0.000000
+numsurf 3
+SURF 0x10
+mat 1
+refs 3
+0 -2.4982 0.2127
+1 -2.5676 0.0006
+2 -2.4982 0.0006
+SURF 0x10
+mat 1
+refs 3
+1 -2.5676 0.0006
+0 -2.4982 0.2127
+3 -2.6280 0.0006
+SURF 0x10
+mat 1
+refs 3
+3 -2.6280 0.0006
+0 -2.4982 0.2127
+4 -2.6280 0.2127
+kids 0
+
